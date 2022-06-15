@@ -13,6 +13,5 @@ const saveRanking = (ranking) => {
     );
   }
 };
-if (typeof module !== 'undefined') {
-  module.exports = saveRanking;
-}
+
+export default saveRanking;
