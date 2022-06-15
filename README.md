@@ -9,4 +9,4 @@ Este projeto trata-se de uma aplicação que é um jogo de trivia.
 
 > Desenvolvido usando: React, Redux, JS6, Tailwind
 
-[Página da aplicação]()
+[Página da aplicação](https://project-trivia-6sk7qjdrj-ronaferr.vercel.app/)
